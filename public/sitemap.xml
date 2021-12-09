@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/life/</loc>
+    <lastmod>2021-12-09T15:33:47+09:00</lastmod>
+  </url><url>
+    <loc>/life/%E7%9F%BF%E5%B7%A5/</loc>
+    <lastmod>2021-12-09T15:33:47+09:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-12-09T15:33:47+09:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2021-12-09T15:33:47+09:00</lastmod>
+  </url><url>
+    <loc>/tech/</loc>
+    <lastmod>2021-12-09T15:33:47+09:00</lastmod>
+  </url><url>
+    <loc>/tech/categories/</loc>
+    <lastmod>2021-12-09T15:33:47+09:00</lastmod>
+  </url><url>
+    <loc>/life/%E7%A7%91%E5%AD%A6vs%E5%AE%97%E6%95%99/</loc>
+    <lastmod>2021-12-09T15:33:47+09:00</lastmod>
+  </url><url>
+    <loc>/life/categories/</loc>
+    <lastmod>2021-12-09T15:33:47+09:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
